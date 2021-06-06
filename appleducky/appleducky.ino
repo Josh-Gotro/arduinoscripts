@@ -2,6 +2,7 @@
 void setup() {
   //empty
 }
+
 void loop() {
   DigiKeyboard.delay(2000);
   DigiKeyboard.sendKeyStroke(0);
